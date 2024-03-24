@@ -1,4 +1,1 @@
-for (i=0;i<true;i++)
-{
-cout<< "Mrs lox"<<endl;
-}
+Зачек топ
